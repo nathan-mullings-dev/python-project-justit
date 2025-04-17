@@ -4,7 +4,7 @@
 
 ## 📘 Project Overview
 
-This repository contains my completed Python workbook from the **JustIT Data Technician Skills Bootcamp**. The workbook includes foundational Python programming tasks and hands-on data manipulation using Pandas — preparing me for real-world data analysis workflows.
+This repository contains my completed Python workbook from **Just IT's Data Skills Bootcamp**. The workbook includes foundational Python programming tasks and hands-on data manipulation using Pandas — preparing me for real-world data analysis workflows.
 
 Over several sessions, I practiced key Python concepts, wrote scripts, loaded and explored datasets, and performed basic data transformations in preparation for entry-level data roles.
 
