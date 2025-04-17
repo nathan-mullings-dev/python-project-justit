@@ -1,4 +1,4 @@
-# 🐍 Data Technician Workbook - Python | JustIT [(PDF)](https://github.com/nathan-mullings-dev/python-project-justit/blob/main/Data%20Technician%20Workbook%20-%20Python.pdf)
+# 🐍 Data Technician Workbook - Python | Just IT's Data Skills Bootcamp [(PDF)](https://github.com/nathan-mullings-dev/python-project-justit/blob/main/Data%20Technician%20Workbook%20-%20Python.pdf)
 
 ---
 
